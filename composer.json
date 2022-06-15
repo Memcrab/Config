@@ -2,7 +2,7 @@
     "name": "memcrab/config",
     "description": "PHP Configuration Lib for Memcrab Core API",
     "keywords": [
-        "configuration"
+        "configuration",
         "php",
         "lib",
         "memcrab"
